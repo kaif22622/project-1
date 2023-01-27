@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="intro_text">Hello World! My name is Kasey and this is my cat Dame!</string>
+</resources>
