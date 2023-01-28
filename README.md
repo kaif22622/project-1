@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] User customized message displayed on screen
 
 ## Video Walkthrough
 
@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 <img src='app\src\main\res\drawable\app_video.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+Android Studio emulator screen record
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
