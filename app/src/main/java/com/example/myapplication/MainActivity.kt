@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val input = findViewById<EditText>(R.id.editTextSomething).text
-
         val btn = findViewById<Button>(R.id.toast_button)
         btn.setOnClickListener{
             Toast.makeText(applicationContext, input, Toast.LENGTH_SHORT).show()
