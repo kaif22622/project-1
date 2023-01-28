@@ -1,10 +1,10 @@
 # Android Prework - project-1
 
-Submitted by: Kaixin Feng
+Submitted by: **Kaixin Feng**
 
-Project-1 is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Project-1** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: 4 hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
