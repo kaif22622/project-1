@@ -33,7 +33,8 @@ Android Studio emulator screen record
 
 ## Notes
 
-This is the first time that I use Kotlin language in Android studio, and I encountered 
+This is the first time that I use Kotlin language in Android studio, and I encountered 'Unresolved reference: R' error, 
+which probably was caused by different gradle version. I re-created a new project and re-built it, and the problem got solved.
 
 ## License
 
