@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='app\src\main\res\drawable\app_video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='app\src\main\res\drawable\app_video.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
